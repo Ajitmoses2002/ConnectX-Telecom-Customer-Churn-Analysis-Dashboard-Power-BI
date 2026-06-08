@@ -140,7 +140,8 @@ Since retaining existing customers is generally more cost-effective than acquiri
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+<img width="1163" height="648" alt="Screenshot 2026-06-07 211420" src="https://github.com/user-attachments/assets/a5b913ba-b3ed-4fe1-a1ab-21da6dd7486b" />
+
 
 ---
 
