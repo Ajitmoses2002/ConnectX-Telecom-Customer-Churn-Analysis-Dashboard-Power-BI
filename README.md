@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 ConnectX Telecom Customer Churn Analysis Dashboard
 
 ## Project Overview
@@ -153,4 +152,4 @@ Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
 - LinkedIn: www.linkedin.com/in/ajitmoseschaparla
 - GitHub: https://github.com/AjitMoses2002
-=======
+
