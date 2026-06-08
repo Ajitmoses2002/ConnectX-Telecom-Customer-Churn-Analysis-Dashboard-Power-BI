@@ -152,5 +152,5 @@ Since retaining existing customers is generally more cost-effective than acquiri
 Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
 - LinkedIn: www.linkedin.com/in/ajitmoseschaparla
-- GitHub: https://github.com/AjitMoses
+- GitHub: https://github.com/AjitMoses2002
 =======
